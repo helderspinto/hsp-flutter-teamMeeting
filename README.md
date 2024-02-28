@@ -6,6 +6,7 @@ The meeting has a maximum limit of 20 participants. When it reaches 20, no more 
 
 ## [HSP] Helder Rodrigo Pinto 
 
+    [HSP] Helder Rodrigo Pinto
     Professor and Researcher
     Computer Engineering Department
     [email] hsp@isep.ipp.pt
