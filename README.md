@@ -1,6 +1,8 @@
-# pl02ex01app
+# TeamMeeting App
 
-A new Flutter project.
+Simulates the registration of entries in a meeting and team.
+Each participant's entry is simulated by clicking on the Join button and the exit is simulated by clicking on the LEAVE button.
+The meeting has a maximum limit of 20 participants. When it reaches 20, no more entries can be registered and the button appears deactivated. The same applies to the meeting exit button, which cannot have a negative number of participants.
 
 ## Getting Started
 
