@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            "Team Meeting",
+            "Team Meeting App",
             style: TextStyle(
               fontSize: 30,
               color: Colors.blue,
